@@ -1,4 +1,5 @@
-DalvikFuzzyLogic
-================
+C Fuzzy Logic for Dalvik
+=========================
 
-Focuses on introducing fuzzy logic behavior in the partitioning of mobile applications
+This repository contains a fuzzy logic engine in C, which can be adapted on the top of code offloading solutions at Thread-level such as [COMET](https://github.com/msg555/comet_android_dalvik)
+
